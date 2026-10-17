@@ -1,6 +1,36 @@
+# SwiftPM build artifacts
 .build/
 build/
 .swiftpm/
+
+# Xcode & Apple temporary files
 *.xcodeproj/
+*.xcworkspace/
 DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcuserdatad
+
+# Editors & IDEs
+.vscode/
+.cursor/
+*.code-workspace
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Vim / Emacs swap and backup files
+*.swp
+*.swo
+*~
+*.bak
+*.orig
+.#*
+*#*
+
+# macOS system files
 .DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
