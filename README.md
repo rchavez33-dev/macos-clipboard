@@ -2,7 +2,7 @@
 
 > Un gestor de portapapeles nativo, moderno y ligero para macOS, basado en la experiencia de usuario y arquitectura de **Paste.app**.
 
-Construido puramente en **Swift (SwiftUI + AppKit)** sin dependencias externas pesadas. Diseñado para ejecutarse como una aplicación de barra de menú no intrusiva con un panel flotante inferior accesible mediante atajo global.
+Construido puramente en **Swift (SwiftUI + AppKit)** sin dependencias externas pesadas. Diseñado para ejecutarse como una aplicación de barra de menú no intrusiva con un panel flotante inferior accesible mediante atajo global. Gratis y de codigo abierto.
 
 ---
 
